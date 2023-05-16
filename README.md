@@ -1,5 +1,6 @@
 # rsg_bbc-oil
 # bcc-oil
+This script is owned by Bytesizd#1337
 conversion by Marwen-☭#0001
 > This is an in depth Oil Job Script for RedM!
 
