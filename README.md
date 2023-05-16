@@ -40,10 +40,6 @@ conversion by Marwen-☭#0001
 - bcc-minigames : https://github.com/BryceCanyonCounty/bcc-minigames
 - bcc-utils     : https://github.com/BryceCanyonCounty/bcc-utils
 
-## Screenshots
-![image](https://user-images.githubusercontent.com/10902965/229379780-278d10e8-7f8f-447e-a223-19bc98d25cb5.png)
-![image](https://user-images.githubusercontent.com/10902965/229379782-3c0bb3cf-f94d-492e-b206-6a99419b00ac.png)
-
 ## Side Notes!
 - This script is massive, there is probably oversights in development. Please help me help you and report issues, bugs, suggestions frequently so that we can make this script more amazing than it already is!
 - Credit too bytesized for his NUI Tutorial Could not have made the Nui menu without it
